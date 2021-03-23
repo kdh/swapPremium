@@ -1,7 +1,7 @@
 {
     "sound":"on",
     "update":"on",
-    "warn":"off",
+    "warn":"on",
     "warn_below":"1.5",
     "warn_above":"5.0"
 }

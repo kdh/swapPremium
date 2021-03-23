@@ -23,8 +23,7 @@ function sound(perLUNA){
         }
     
 
-        if (soundOption.warn == "on" && (perLUNA >= 1 + above/100 || perLUNA <= 1 + below)){
-            console.log("test")
+        if (soundOption.warn == "on" && (perLUNA >= 1 + above/100 || perLUNA <= 1 + below/100)){
             if(soundOption.update == "off"){
                 makesound()
             }
