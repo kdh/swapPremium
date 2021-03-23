@@ -1,4 +1,4 @@
 {
-    "token":"luna",
-    "amount":"1000"
+    "token":"bluna",
+    "amount":"47"
 }
